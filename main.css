@@ -1,0 +1,20 @@
+h1 {
+    color: black;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.labels {
+    color: green;
+    font-size: 20px;
+}
+
+.mensagem-final {
+    color: white;
+    font-size: 40px;
+    display: none;
+}
+
+#button1:hover {
+    background-color: green;
+}
