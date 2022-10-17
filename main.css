@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+body {
+    background-color: rgba(0,0,0,0.2);
+    color: back;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+input, button {
+    margin-right: 5px;
+    padding: 5px;
+}
+
+button {
+    font-weight: bold;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+.completed {
+    text-decoration: line-through;
+}
